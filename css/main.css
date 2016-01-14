@@ -92,16 +92,16 @@ body {
   font-size: .7rem;
 
   position: absolute;
-  left: 7em;
-  top: -0.5em;
+  left: 60px;
+  top: -10px;
 }
 
 .time-total {
   font-size: .7rem;
 
   position: absolute;
-  right: 0.5em;
-  top: -0.5em;
+  right: 10px;
+  top: -10px;
 }
 
 .controls {
@@ -117,21 +117,22 @@ body {
 
 .control-shuffle {
   position: absolute;
-  top: -30px;
-  left: 2em;
-  font-size: 0.8em;
+  top: -35px;
+  left: 60px;
+  font-size: 0.7em;
 
 }
 
 .control-list {
   position: absolute;
-  top: -1em;
-  right: 2em;
-  font-size: 0.8em;
+  top: -35px;
+  right: 10px;
+  font-size: 1em;
 }
 
 .control-heart {
   position: absolute;
-  top: -1em;
-  right: 1.4em;
+  top: -33px;
+  right: 30px;
+  font-size: 0.8em;
 }
